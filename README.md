@@ -292,10 +292,10 @@ Exit
 Example: Adding a student
 
 Enter choice: 1
-Student ID: 24BCE10149 |
-Registration Number: 24BCE10149 |
-Full Name: Rishi Raj |
-Email: rishi.24bce10149@vitbhopal.ac.in
+Student ID: 24BCE10127 |
+Registration Number: 24BCE10127 |
+Full Name: Mohammad Anas Sajid |
+Email: mohammad.24bce10127@vitbhopal.ac.in
 
 ✅ Student added successfully!
 
