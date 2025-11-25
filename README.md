@@ -1,7 +1,7 @@
 # Campus Course & Records Manager (CCRM)
 
-**Name:** MOHAMMAD ANAS SAJID
-**Registration Number:** 24BCE10127  
+**Name:** ARKA DAS
+**Registration Number:** 24BOE10032
 **Course:** Programming in Java  
 **Institution:** Vellore Institute of Technology (VIT)
 
@@ -292,10 +292,10 @@ Exit
 Example: Adding a student
 
 Enter choice: 1
-Student ID: 24BCE10127 |
-Registration Number: 24BCE10127 |
-Full Name: Mohammad Anas Sajid |
-Email: mohammad.24bce10127@vitbhopal.ac.in
+Student ID: 24BOE10032
+Registration Number: 24BOE10032 |
+Full Name: ARKA DAS|
+Email: arka.24boe10032@vitbhopal.ac.in
 
 ✅ Student added successfully!
 
@@ -342,8 +342,8 @@ public class DuplicateEnrollmentException extends RuntimeException {
 
 ---
 
-**Project Completed**: September 2025  
-**Academic Session**: Semester 3, B.Tech Computer Science  
+**Project Completed**: November 2025  
+**Academic Session**: Semester 4, B.Tech Computer Science  
 **Institution**: Vellore Institute of Technology (VIT)
 
 *This project demonstrates comprehensive understanding of Java SE features, object-oriented programming principles, and software engineering best practices.*
